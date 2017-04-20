@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/lchk/!svn/ver/923/HappyDot/ios/happyDot/happyDot/%E5%85%AC%E5%85%B1/Lib/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BEAPI/BaiduMapAPI_Base.framework/Headers
+END
+BMKTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/lchk/!svn/ver/923/HappyDot/ios/happyDot/happyDot/%E5%85%AC%E5%85%B1/Lib/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BEAPI/BaiduMapAPI_Base.framework/Headers/BMKTypes.h
+END
+BMKVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/lchk/!svn/ver/923/HappyDot/ios/happyDot/happyDot/%E5%85%AC%E5%85%B1/Lib/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BEAPI/BaiduMapAPI_Base.framework/Headers/BMKVersion.h
+END
+BMKUserLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/lchk/!svn/ver/923/HappyDot/ios/happyDot/happyDot/%E5%85%AC%E5%85%B1/Lib/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BEAPI/BaiduMapAPI_Base.framework/Headers/BMKUserLocation.h
+END
+BMKGeneralDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/lchk/!svn/ver/923/HappyDot/ios/happyDot/happyDot/%E5%85%AC%E5%85%B1/Lib/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BEAPI/BaiduMapAPI_Base.framework/Headers/BMKGeneralDelegate.h
+END
+BMKMapManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/lchk/!svn/ver/923/HappyDot/ios/happyDot/happyDot/%E5%85%AC%E5%85%B1/Lib/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BEAPI/BaiduMapAPI_Base.framework/Headers/BMKMapManager.h
+END
+BMKBaseComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/lchk/!svn/ver/923/HappyDot/ios/happyDot/happyDot/%E5%85%AC%E5%85%B1/Lib/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BEAPI/BaiduMapAPI_Base.framework/Headers/BMKBaseComponent.h
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/lchk/!svn/ver/923/HappyDot/ios/happyDot/happyDot/%E5%85%AC%E5%85%B1/Lib/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BEAPI/BaiduMapAPI_Utils.framework/Headers
+END
+BMKFavPoiManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/lchk/!svn/ver/923/HappyDot/ios/happyDot/happyDot/%E5%85%AC%E5%85%B1/Lib/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BEAPI/BaiduMapAPI_Utils.framework/Headers/BMKFavPoiManager.h
+END
+BMKNavigation.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/lchk/!svn/ver/923/HappyDot/ios/happyDot/happyDot/%E5%85%AC%E5%85%B1/Lib/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BEAPI/BaiduMapAPI_Utils.framework/Headers/BMKNavigation.h
+END
+BMKFavPoiInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/lchk/!svn/ver/923/HappyDot/ios/happyDot/happyDot/%E5%85%AC%E5%85%B1/Lib/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BEAPI/BaiduMapAPI_Utils.framework/Headers/BMKFavPoiInfo.h
+END
+BMKOpenPanorama.h
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/lchk/!svn/ver/923/HappyDot/ios/happyDot/happyDot/%E5%85%AC%E5%85%B1/Lib/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BEAPI/BaiduMapAPI_Utils.framework/Headers/BMKOpenPanorama.h
+END
+BMKOpenRoute.h
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/lchk/!svn/ver/923/HappyDot/ios/happyDot/happyDot/%E5%85%AC%E5%85%B1/Lib/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BEAPI/BaiduMapAPI_Utils.framework/Headers/BMKOpenRoute.h
+END
+BMKOpenPoiOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/lchk/!svn/ver/923/HappyDot/ios/happyDot/happyDot/%E5%85%AC%E5%85%B1/Lib/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BEAPI/BaiduMapAPI_Utils.framework/Headers/BMKOpenPoiOption.h
+END
+BMKUtilsComponent.h
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/lchk/!svn/ver/923/HappyDot/ios/happyDot/happyDot/%E5%85%AC%E5%85%B1/Lib/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BEAPI/BaiduMapAPI_Utils.framework/Headers/BMKUtilsComponent.h
+END
+BMKUtilsVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/lchk/!svn/ver/923/HappyDot/ios/happyDot/happyDot/%E5%85%AC%E5%85%B1/Lib/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BEAPI/BaiduMapAPI_Utils.framework/Headers/BMKUtilsVersion.h
+END
+BMKOpenPoi.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/lchk/!svn/ver/923/HappyDot/ios/happyDot/happyDot/%E5%85%AC%E5%85%B1/Lib/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BEAPI/BaiduMapAPI_Utils.framework/Headers/BMKOpenPoi.h
+END
+BMKOpenRouteOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/lchk/!svn/ver/923/HappyDot/ios/happyDot/happyDot/%E5%85%AC%E5%85%B1/Lib/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BEAPI/BaiduMapAPI_Utils.framework/Headers/BMKOpenRouteOption.h
+END
+BMKOpenOption.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/lchk/!svn/ver/923/HappyDot/ios/happyDot/happyDot/%E5%85%AC%E5%85%B1/Lib/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BEAPI/BaiduMapAPI_Utils.framework/Headers/BMKOpenOption.h
+END
+BMKGeometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/lchk/!svn/ver/923/HappyDot/ios/happyDot/happyDot/%E5%85%AC%E5%85%B1/Lib/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BEAPI/BaiduMapAPI_Utils.framework/Headers/BMKGeometry.h
+END
